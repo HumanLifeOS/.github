@@ -2,7 +2,7 @@
 
 <br>
 
-[English](#-english) | [简体中文](#-简体中文) | [繁體中文](#-繁體中文)
+[English](#-english) | [简体中文](#-简体中文) | 
 
 ---
 
@@ -272,7 +272,7 @@ We invite researchers, developers, designers, and explorers to build the next ge
 
 ---
 
-<h2 id="-简体中文">🇨🇳 简体中文</h2>
+<h2 id="-简体中文">:flag_china: 简体中文</h2>
 
 # HumanLifeOS
 
