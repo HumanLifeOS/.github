@@ -1,5 +1,13 @@
 # HumanLifeOS
 
+<br>
+
+[English](#-english) | [简体中文](#-简体中文) | [繁體中文](#-繁體中文)
+
+---
+
+<h2 id="-english">🌐 English</h2>
+
 ## The Human Life Intelligence Agent
 
 ### From Instinct OS to Intelligence OS
@@ -263,6 +271,8 @@ HumanLifeOS aims to create an open-source foundation for:
 We invite researchers, developers, designers, and explorers to build the next generation of human intelligence infrastructure together.
 
 ---
+
+<h2 id="-简体中文">🇨🇳 简体中文</h2>
 
 # HumanLifeOS
 
