@@ -272,8 +272,11 @@ We invite researchers, developers, designers, and explorers to build the next ge
 
 ## Building Human Intelligence Infrastructure for the AI Era
 
+<br><br>
 
+---
 
+<br><br>
 
 # HumanLifeOS
 
