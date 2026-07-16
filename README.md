@@ -1,1 +1,1 @@
->>> [HumanLifeOS GitHub Overview](https://github.com/humanlifeos/)
+→ [HumanLifeOS GitHub Overview](https://github.com/humanlifeos/)
