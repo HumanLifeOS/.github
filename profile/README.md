@@ -4,148 +4,198 @@
 
 ### From Instinct OS to Intelligence OS
 
-HumanLifeOS is an open-source initiative to explore and build the next-generation Human Life Operating System — helping humans upgrade from instinct-driven biological systems to intelligence-driven life systems.
+**HumanLifeOS is an open-source Human Intelligence Upgrade System designed to help humans evolve from instinct-driven biological systems into intelligence-driven life systems.**
 
-We aim to combine **Human Intelligence (HI)** and **Artificial Intelligence (AI)** to develop a self-evolving knowledge system, training framework, and intelligent infrastructure for human growth.
-
----
-
-## Vision
-
-Human beings have developed powerful artificial intelligence, but our own biological operating system is still largely driven by inherited instincts, emotions, habits, and unconscious patterns.
-
-HumanLifeOS explores a new paradigm:
-
-**Upgrade the Human OS.
-Enhance Human Intelligence.
-Build Human-AI Co-Evolution.**
+It is a next-generation Human Life Operating System that combines **Human Intelligence (HI)** and **Artificial Intelligence (AI)** to build a continuously evolving framework for human learning, self-awareness, and intelligent living.
 
 ---
 
-## Core Concept
+# Become a New Human
 
-### From Instinct OS to Intelligence OS
+## The Human Intelligence Pre-training Journey
 
-**Instinct OS**
+Similar to how AI models require pre-training to develop general capabilities, humans also need systematic training to upgrade their cognitive and behavioral operating systems.
 
-* Biological survival mechanisms
+However, HumanLifeOS training is fundamentally different from AI pre-training:
+
+* AI training happens before deployment;
+* Human intelligence training happens continuously during life.
+
+Every moment becomes an opportunity for:
+
+* Observation
+* Learning
+* Reflection
+* Adjustment
+* Evolution
+
+Through continuous self-training, humans can gradually upgrade from:
+
+**Instinct OS → Intelligence OS**
+
+and evolve into a **New Human** with enhanced awareness, intelligence, creativity, and wisdom.
+
+---
+
+# HumanLifeOS = Mindfulness 2.0
+
+HumanLifeOS represents the modernization and evolution of traditional contemplative practices.
+
+It transforms ancient mindfulness and insight meditation traditions into a new paradigm through four systematic upgrades:
+
+## 1. Scientific Transformation
+
+Applying modern science, neuroscience, psychology, and data-driven approaches to understand human cognition, emotion, and behavior.
+
+## 2. Engineering Transformation
+
+Transforming personal growth and consciousness training into reproducible processes, methodologies, and training protocols.
+
+## 3. Life Transformation
+
+Integrating awareness training into daily life rather than separating practice from ordinary living.
+
+## 4. Systematic Transformation
+
+Building a complete Human Operating System framework that connects:
+
+* Mind
+* Body
+* Emotion
+* Behavior
+* Intelligence
+* Life evolution
+
+---
+
+# From Instinct OS to Intelligence OS
+
+## Instinct OS
+
+The biological operating system shaped by evolution:
+
+* Survival mechanisms
 * Automatic reactions
 * Emotional patterns
 * Conditioned behaviors
-* Evolutionary programming
+* Unconscious programming
 
 ↓
 
-**Intelligence OS**
+## Intelligence OS
+
+The upgraded human operating system:
 
 * Self-awareness
-* Cognitive flexibility
-* System thinking
+* Clear perception
+* Systems thinking
 * Creative intelligence
-* Wisdom-driven decision making
+* Wisdom-based decisions
+* Self-evolution capability
 
 ---
 
-## Research Areas
+# Core Research Areas
 
-### 1. Human Intelligence Architecture
+## 1. Human Intelligence Architecture
 
-Exploring the fundamental structure of human intelligence:
+Exploring the fundamental mechanisms of human intelligence:
 
-* Consciousness and cognition
-* Attention and awareness
-* Learning and adaptation
-* Decision-making systems
-* Self-evolution mechanisms
+* Consciousness and awareness
+* Cognitive systems
+* Learning mechanisms
+* Intelligence evolution
+* Self-improvement systems
 
 ---
 
-### 2. Human Life Operating System
+## 2. Human Life Operating System
 
-Building a systematic framework for life optimization:
+Developing frameworks for upgrading human capabilities:
 
-* Mind management
-* Emotion regulation
+* Attention training
+* Emotional intelligence
 * Health optimization
-* Behavior engineering
-* Personal development systems
+* Behavior transformation
+* Life system design
 
 ---
 
-### 3. AI + Human Intelligence
+## 3. Human + AI Co-Evolution
 
-Developing AI-assisted systems for:
+Building intelligent tools that augment human intelligence:
 
-* Personal knowledge management
-* Intelligent life coaching
-* Self-reflection and feedback
-* Personalized learning
-* Human capability enhancement
+* Personal AI assistants
+* Knowledge systems
+* Intelligent coaching
+* Human-AI collaboration
 
 ---
 
-### 4. Self-Evolving Knowledge System
+## 4. Self-Evolving Knowledge Infrastructure
 
-Inspired by the evolution of Large Language Models and Wiki systems:
+Creating an open knowledge ecosystem:
 
-* Structured knowledge graphs
+* Ontology-based knowledge models
 * AI-assisted knowledge evolution
+* Human intelligence databases
 * Open research collaboration
-* Human intelligence augmentation
 
 ---
 
-## Methodology
+# Methodology
 
 HumanLifeOS integrates:
 
-* Scientific methodology
-* Systems engineering
-* Knowledge engineering
-* Behavioral science
-* AI technology
-* Contemplative practices and self-observation methods
+* Artificial Intelligence
+* Knowledge Engineering
+* Systems Thinking
+* Behavioral Science
+* Neuroscience
+* Contemplative Intelligence
 
-Our goal is to transform human development from fragmented experiences into a measurable, systematic, and continuously improving process.
-
----
-
-## Open Source Philosophy
-
-Human intelligence is humanity's most valuable infrastructure.
-
-We believe future civilization requires not only smarter machines, but also more intelligent humans.
-
-HumanLifeOS welcomes researchers, developers, designers, and explorers to collaboratively build an open infrastructure for human intelligence evolution.
+Our mission is to transform human development from an individual experience into a **scientific, engineering, life-integrated, and systematic evolution process.**
 
 ---
 
-## Roadmap
+# Open Source Mission
 
-### Phase 1 — Knowledge Infrastructure
+AI is rapidly upgrading machine intelligence.
+
+HumanLifeOS focuses on upgrading the intelligence of humanity itself.
+
+We believe the future requires not only more powerful AI systems, but also more conscious, intelligent, and adaptive humans.
+
+Together, we build the infrastructure for the next stage of human evolution.
+
+---
+
+# Roadmap
+
+## Phase 1 — Human Intelligence Knowledge Base
 
 * HumanLifeOS ontology
-* Open knowledge base
-* Research documentation
-* AI-assisted learning system
+* Open knowledge system
+* AI-assisted learning framework
 
-### Phase 2 — Intelligence Training System
+## Phase 2 — New Human Training System
 
-* Life training framework
-* Self-assessment models
-* Personal growth protocols
+* Intelligence upgrade pathway
+* Self-awareness training
+* Life optimization protocols
 
-### Phase 3 — Human-AI Intelligence Ecosystem
+## Phase 3 — Human-AI Intelligence Ecosystem
 
-* Intelligent agents
-* Personal AI companions
-* Distributed human intelligence network
+* Personal intelligence agents
+* Self-evolving AI knowledge network
+* Human intelligence infrastructure
 
 ---
 
-## Join Us
-
-Building the next generation of human intelligence infrastructure.
-
 **HumanLifeOS**
+
+**Mindfulness 2.0**
+
 **From Instinct OS to Intelligence OS**
+
+**Building the Human Intelligence Infrastructure for the AI Era**
