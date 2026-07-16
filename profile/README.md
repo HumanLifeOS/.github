@@ -4,399 +4,270 @@
 
 ### From Instinct OS to Intelligence OS
 
-**HumanLifeOS is an open-source Human Intelligence Upgrade System designed to help humans evolve from instinct-driven biological systems into intelligence-driven life systems.**
+HumanLifeOS is an open-source **Human Intelligence Upgrade System** designed to build the next-generation Human Life Operating System for the AI era.
 
-It is a next-generation Human Life Operating System that combines **Human Intelligence (HI)** and **Artificial Intelligence (AI)** to build a continuously evolving framework for human learning, self-awareness, and intelligent living.
+It explores how humans can upgrade from an instinct-driven biological operating system into an intelligence-driven life system through:
 
----
+* Scientific methodology
+* Engineering principles
+* Artificial intelligence
+* Systematic life training
 
-# Become a New Human
-
-## The Human Intelligence Pre-training Journey
-
-Similar to how AI models require pre-training to develop general capabilities, humans also need systematic training to upgrade their cognitive and behavioral operating systems.
-
-However, HumanLifeOS training is fundamentally different from AI pre-training:
-
-* AI training happens before deployment;
-* Human intelligence training happens continuously during life.
-
-Every moment becomes an opportunity for:
-
-* Observation
-* Learning
-* Reflection
-* Adjustment
-* Evolution
-
-Through continuous self-training, humans can gradually upgrade from:
-
-**Instinct OS → Intelligence OS**
-
-and evolve into a **New Human** with enhanced awareness, intelligence, creativity, and wisdom.
+Our mission is to build the infrastructure for human intelligence evolution.
 
 ---
 
-# HumanLifeOS = Mindfulness 2.0
+# Why HumanLifeOS?
 
-HumanLifeOS represents the modernization and evolution of traditional contemplative practices.
+## The AI Era Requires Human Intelligence Upgrade
 
-It transforms ancient mindfulness and insight meditation traditions into a new paradigm through four systematic upgrades:
+Artificial intelligence is rapidly expanding machine intelligence.
 
-## 1. Scientific Transformation
+However, human beings still largely operate through an inherited biological operating system shaped by:
 
-Applying modern science, neuroscience, psychology, and data-driven approaches to understand human cognition, emotion, and behavior.
+* Evolutionary instincts
+* Emotional reactions
+* Habitual patterns
+* Unconscious programming
 
-## 2. Engineering Transformation
+This creates a fundamental challenge:
 
-Transforming personal growth and consciousness training into reproducible processes, methodologies, and training protocols.
+> How can humans upgrade their own intelligence systems while AI continues to evolve?
 
-## 3. Life Transformation
+HumanLifeOS explores a new paradigm:
 
-Integrating awareness training into daily life rather than separating practice from ordinary living.
-
-## 4. Systematic Transformation
-
-Building a complete Human Operating System framework that connects:
-
-* Mind
-* Body
-* Emotion
-* Behavior
-* Intelligence
-* Life evolution
+**Upgrade Human Intelligence.
+Upgrade the Human Operating System.**
 
 ---
 
-# From Instinct OS to Intelligence OS
+# Human Life Operating System
+
+## From Instinct OS to Intelligence OS
+
+Human beings can be viewed as complex adaptive intelligence systems.
 
 ## Instinct OS
 
-The biological operating system shaped by evolution:
+The biological operating system developed through evolution:
 
 * Survival mechanisms
 * Automatic reactions
 * Emotional patterns
 * Conditioned behaviors
-* Unconscious programming
+* Habitual decision-making
 
 ↓
 
 ## Intelligence OS
 
-The upgraded human operating system:
+An upgraded human operating system:
 
 * Self-awareness
-* Clear perception
+* Cognitive flexibility
+* Emotional intelligence
 * Systems thinking
 * Creative intelligence
 * Wisdom-based decisions
-* Self-evolution capability
 
 ---
 
-# Core Research Areas
+# HumanLifeOS Methodology
 
-## 1. Human Intelligence Architecture
+## Black Box Methodology
 
-Exploring the fundamental mechanisms of human intelligence:
+### Engineering Human Intelligence as a Complex System
 
-* Consciousness and awareness
-* Cognitive systems
-* Learning mechanisms
-* Intelligence evolution
-* Self-improvement systems
+Human intelligence is one of the most complex systems in existence.
 
----
+Many internal mechanisms remain difficult to fully explain, including:
 
-## 2. Human Life Operating System
+* Conscious experience
+* Cognitive processes
+* Mind-body interaction
+* Intelligence emergence
 
-Developing frameworks for upgrading human capabilities:
+HumanLifeOS applies the **Black Box Methodology** from science and engineering:
 
-* Attention training
-* Emotional intelligence
-* Health optimization
-* Behavior transformation
-* Life system design
-
----
-
-## 3. Human + AI Co-Evolution
-
-Building intelligent tools that augment human intelligence:
-
-* Personal AI assistants
-* Knowledge systems
-* Intelligent coaching
-* Human-AI collaboration
-
----
-
-## 4. Self-Evolving Knowledge Infrastructure
-
-Creating an open knowledge ecosystem:
-
-* Ontology-based knowledge models
-* AI-assisted knowledge evolution
-* Human intelligence databases
-* Open research collaboration
-
----
-
-# Methodology
-
-HumanLifeOS integrates:
-
-* Artificial Intelligence
-* Knowledge Engineering
-* Systems Thinking
-* Behavioral Science
-* Neuroscience
-* Contemplative Intelligence
-
-Our mission is to transform human development from an individual experience into a **scientific, engineering, life-integrated, and systematic evolution process.**
-
----
-
-# Open Source Mission
-
-AI is rapidly upgrading machine intelligence.
-
-HumanLifeOS focuses on upgrading the intelligence of humanity itself.
-
-We believe the future requires not only more powerful AI systems, but also more conscious, intelligent, and adaptive humans.
-
-Together, we build the infrastructure for the next stage of human evolution.
-
----
-
-# Roadmap
-
-## Phase 1 — Human Intelligence Knowledge Base
-
-* HumanLifeOS ontology
-* Open knowledge system
-* AI-assisted learning framework
-
-## Phase 2 — New Human Training System
-
-* Intelligence upgrade pathway
-* Self-awareness training
-* Life optimization protocols
-
-## Phase 3 — Human-AI Intelligence Ecosystem
-
-* Personal intelligence agents
-* Self-evolving AI knowledge network
-* Human intelligence infrastructure
-
----
-# Black Box Methodology
-
-## Understanding Human Intelligence as a Complex System
-
-HumanLifeOS adopts the **Black Box Methodology** from modern science and engineering to study and improve the human life system.
-
-A complex system may contain mechanisms that are difficult to directly observe or fully explain. Instead of relying only on theoretical assumptions, the black box approach focuses on:
-
-**Input → System → Output → Feedback → Optimization**
-
-By continuously observing inputs, measurable changes, and outputs, we can gradually understand, model, and improve the system.
-
----
-
-# Human as a Biological Intelligence System
-
-The human being can be viewed as a complex adaptive intelligence system:
-
-## Input
-
-* Sensory information
-* Thoughts and beliefs
-* Emotions
-* Environment
-* Lifestyle patterns
-* Training practices
-
-↓
-
-## Black Box
-
-The internal processes of:
-
-* Consciousness
-* Cognition
-* Neural networks
-* Biological regulation
-* Psychological mechanisms
-* Intelligent adaptation
-
-↓
-
-## Output
-
-Observable results:
-
-* Behavior
-* Health status
-* Emotional states
-* Cognitive abilities
-* Life quality
-* Decision-making patterns
-
-↓
-
-## Feedback Loop
-
-Continuous measurement and adjustment:
-
-* Observe
-* Experiment
-* Learn
-* Optimize
-* Evolve
-
----
-
-# From Traditional Practice to Engineering System
-
-Traditional contemplative practices, including mindfulness and insight meditation, accumulated thousands of years of experiential knowledge about human cognition and consciousness.
-
-However, many traditional methods remain difficult to:
-
-* Standardize
-* Measure
-* Replicate
-* Scale
-
-HumanLifeOS applies black box methodology to transform traditional inner training into a modern framework:
-
-**Traditional Wisdom**
-
-↓
-
-**Black Box Modeling**
-
-↓
-
-**Scientific Observation**
-
-↓
-
-**Engineering Protocols**
-
-↓
-
-**Systematic Training**
-
----
-
-# Human Intelligence Upgrade Engineering
-
-Similar to AI system development:
-
-AI:
+Instead of requiring complete internal understanding first, we study and optimize systems through:
 
 ```
-Data Input
-    ↓
-Training Process
-    ↓
+Input
+  ↓
+Human Intelligence System
+  ↓
+Output
+  ↓
+Feedback
+  ↓
+Optimization
+```
+
+By observing changes, measuring outcomes, and continuously iterating, human intelligence can become a trainable and improvable system.
+
+---
+
+# Mindfulness 2.0
+
+## Transforming Traditional Wisdom into Human Intelligence Engineering
+
+HumanLifeOS represents the modernization of traditional mindfulness and insight practices.
+
+It transforms ancient inner training through four systematic upgrades:
+
+---
+
+## 1. Scientific Transformation
+
+From experience-based understanding to:
+
+* Observation
+* Research
+* Validation
+* Evidence-informed practice
+
+---
+
+## 2. Engineering Transformation
+
+From individual practice to:
+
+* Training frameworks
+* Repeatable processes
+* Optimization systems
+* Feedback loops
+
+---
+
+## 3. Lifestyle Transformation
+
+From isolated practice environments into:
+
+* Daily life
+* Work
+* Relationships
+* Real-world challenges
+
+Life itself becomes the training environment.
+
+---
+
+## 4. Systematic Transformation
+
+Building an integrated Human Intelligence Operating System:
+
+* Knowledge system
+* Training system
+* Evaluation system
+* AI-assisted evolution system
+
+---
+
+# Human Intelligence Training
+
+## Continuous Self-Training for Human Evolution
+
+Similar to AI systems:
+
+```
+AI:
+
+Data
+ ↓
+Pre-training
+ ↓
 Model Capability
-    ↓
-Evaluation & Optimization
 ```
 
 HumanLifeOS:
 
 ```
 Life Experience
-    ↓
-Self-Awareness Training
-    ↓
-Intelligence Upgrade
-    ↓
-Continuous Feedback & Evolution
+ ↓
+Awareness Training
+ ↓
+Intelligence Evolution
 ```
 
-The difference:
+The fundamental difference:
 
-AI models are trained before deployment.
+AI models are mainly trained before deployment.
 
-Humans are continuously trained while living.
+Humans can continuously train and evolve throughout their entire lives.
 
-Life itself becomes the training environment.
-
----
-
-# The Human Life Operating System Framework
-
-HumanLifeOS combines:
-
-## Scientific Method
+Every moment becomes an opportunity for:
 
 * Observation
-* Hypothesis
-* Experiment
-* Verification
-* Iteration
-
-## Engineering Method
-
-* System design
-* Process optimization
-* Standardized protocols
-* Feedback control
-
-## Black Box Method
-
-* Focus on measurable transformation
-* Avoid premature assumptions
-* Study mechanisms through effects
-
-## Contemplative Method
-
-* Direct observation of experience
-* Awareness training
-* Inner system optimization
+* Learning
+* Adaptation
+* Growth
 
 ---
 
-# A New Paradigm for Human Development
+# Human + AI Co-Evolution
 
-HumanLifeOS proposes:
+HumanLifeOS explores the collaboration between:
 
-Traditional Approach:
+## Human Intelligence (HI)
 
-> "Understand the theory, practice the method, seek transformation."
+and
 
-HumanLifeOS Approach:
+## Artificial Intelligence (AI)
 
-> "Treat human intelligence as a complex system. Observe the input, optimize the process, measure the output, and continuously evolve."
+Building systems for:
 
-Through this approach, human development can move from:
+* Personal intelligence augmentation
+* AI-assisted learning
+* Knowledge evolution
+* Human capability enhancement
 
-**Experience-based Practice**
+The future is not only about smarter machines.
 
-to
-
-**Evidence-informed Human Intelligence Engineering**
+It is also about more intelligent humans.
 
 ---
 
-**HumanLifeOS**
+# Become a New Human
 
-**Mindfulness 2.0**
+## The Outcome of Human Intelligence Evolution
 
-**From Instinct OS to Intelligence OS**
+Through continuous Human Intelligence Training, humans can evolve from:
 
-**Building the Human Intelligence Infrastructure for the AI Era**
+**Instinct-driven beings**
 
+into:
 
-**HumanLifeOS**
+**Intelligence-driven beings**
 
-**Mindfulness 2.0**
+A New Human represents:
 
-**From Instinct OS to Intelligence OS**
+* Higher awareness
+* Greater cognitive capability
+* Better self-regulation
+* Enhanced creativity
+* More harmonious interaction with life
 
-**Building the Human Intelligence Infrastructure for the AI Era**
+---
+
+# Open Source Mission
+
+Human intelligence is humanity's most valuable infrastructure.
+
+HumanLifeOS aims to create an open-source foundation for:
+
+* Human intelligence research
+* Life optimization systems
+* AI-enhanced personal development
+* Collective intelligence evolution
+
+We invite researchers, developers, designers, and explorers to build the next generation of human intelligence infrastructure together.
+
+---
+
+# HumanLifeOS
+
+## Mindfulness 2.0
+
+## From Instinct OS to Intelligence OS
+
+## Building Human Intelligence Infrastructure for the AI Era
