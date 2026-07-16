@@ -272,7 +272,7 @@ We invite researchers, developers, designers, and explorers to build the next ge
 
 ---
 
-<h2 id="-简体中文">:flag_china: 简体中文</h2>
+
 
 # HumanLifeOS
 
@@ -287,6 +287,8 @@ We invite researchers, developers, designers, and explorers to build the next ge
 ---
 
 <br><br>
+
+<h2 id="-简体中文">&#x1f1e8;&#x1f1f3; 简体中文</h2>
 
 # HumanLifeOS
 
