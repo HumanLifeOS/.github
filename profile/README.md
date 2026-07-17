@@ -2,7 +2,7 @@
 
 <br>
 
-| [English](#-english) | [简体中文](#-简体中文) | 
+|　[English](#-english)　|　[简体中文](#-简体中文)　| 
 
 ---
 
@@ -10,7 +10,7 @@
 
 ## The Human Life Intelligence Agent Operating System
 
-—— From Instinct OS to Intelligence OS
+<b>—— From Instinct OS to Intelligence OS </b>
 
 HumanLifeOS is an open-source **Human Intelligence Upgrade System** designed to build the next-generation Human Life Operating System for the AI era.
 
@@ -291,7 +291,7 @@ We invite researchers, developers, designers, and explorers to build the next ge
 
 ## 人类生命智能体操作系统
 
-—— 从本能OS到智能OS
+<b> —— 从本能OS到智能OS </b>
 
 HumanLifeOS 是一个面向 AI 时代的**人类智能升级系统（Human Intelligence Upgrade System）**。
 
