@@ -10,7 +10,7 @@
 
 ## The Human Life Intelligence Agent Operating System
 
-### From Instinct OS to Intelligence OS
+—— From Instinct OS to Intelligence OS
 
 HumanLifeOS is an open-source **Human Intelligence Upgrade System** designed to build the next-generation Human Life Operating System for the AI era.
 
@@ -270,23 +270,20 @@ HumanLifeOS aims to create an open-source foundation for:
 
 We invite researchers, developers, designers, and explorers to build the next generation of human intelligence infrastructure together.
 
----
 
-
-
-# HumanLifeOS
-
-## Mindfulness 2.0
-
-## From Instinct OS to Intelligence OS
-
-## Building Human Intelligence Infrastructure for the AI Era
 
 <br><br>
 
 ---
 
 <br><br>
+
+
+
+
+
+
+
 
 <h2 id="-简体中文">&#x1f1e8;&#x1f1f3; 简体中文</h2>
 
@@ -294,7 +291,7 @@ We invite researchers, developers, designers, and explorers to build the next ge
 
 ## 人类生命智能体操作系统
 
-### 从本能OS到智能OS
+—— 从本能OS到智能OS
 
 HumanLifeOS 是一个面向 AI 时代的**人类智能升级系统（Human Intelligence Upgrade System）**。
 
@@ -637,12 +634,3 @@ HumanLifeOS 致力于构建开放的人类智能基础设施：
 
 共同建设 AI 时代的人类智能基础设施。
 
----
-
-# HumanLifeOS
-
-## 正念2.0（Mindfulness 2.0）
-
-## 从本能OS到智能OS
-
-## 构建AI时代的人类智能基础设施
