@@ -8,7 +8,7 @@
 
 <h2 id="-english">🌐 English</h2>
 
-## The Human Life Intelligence Agent
+## The Human Life Intelligence Agent Operating System
 
 ### From Instinct OS to Intelligence OS
 
@@ -292,7 +292,7 @@ We invite researchers, developers, designers, and explorers to build the next ge
 
 # HumanLifeOS
 
-## 人类生命智能体
+## 人类生命智能体操作系统
 
 ### 从本能OS到智能OS
 
