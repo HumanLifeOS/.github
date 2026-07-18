@@ -8,7 +8,7 @@
 
 <h2 id="-english">🌐 English</h2>
 
-## The Human Life Intelligence Agent Operating System
+## The Human Life (Intelligence Agent) Operating System
 
 <b>—— From Instinct OS to Intelligence OS </b>
 
@@ -289,7 +289,7 @@ We invite researchers, developers, designers, and explorers to build the next ge
 
 # HumanLifeOS
 
-## 人类生命智能体操作系统
+## 人类生命（智能体）操作系统
 
 <b> —— 从本能OS到智能OS </b>
 
@@ -300,7 +300,7 @@ HumanLifeOS 是一个面向 AI 时代的**人类智能升级系统（Human Intel
 * 科学方法
 * 工程体系
 * 人工智能
-* 系统化生命训练
+* 系统化生命内观训练
 
 实现从**本能驱动的生物操作系统**，向**智能驱动的生命操作系统**升级。
 
