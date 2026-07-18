@@ -2,7 +2,7 @@
 
 <br>
 
-|　[English](#-english)　|　[简体中文](#-简体中文)　| 
+<b>|　[English](#-english)　|　[简体中文](#-简体中文)　| </b>
 
 ---
 
